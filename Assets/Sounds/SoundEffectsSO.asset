@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ca44bbc6aee04c642afb6a6968f1d840, type: 3}
+  m_Name: SoundEffectsSO
+  m_EditorClassIdentifier: 
+  ShipShoots: {fileID: 8300000, guid: 46d9b36086e74c8469397d67b58c120c, type: 3}
+  EnemyExplode: {fileID: 8300000, guid: 1a7e4a4b32ac181438bedcbf7bb31e2c, type: 3}
+  AsteroidExplode: {fileID: 8300000, guid: d7477b1f76a118d4fb804d2369b92175, type: 3}
+  BulletExplode: {fileID: 8300000, guid: c7d34ef044ad26f48b98d8a413b00398, type: 3}
